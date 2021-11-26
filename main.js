@@ -14,3 +14,5 @@ function reset_score() {
   count_score = 0
   score.innerHTML = "Score : ";
 }
+
+console.log("################\n# Quick Tester #\n################")
